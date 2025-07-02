@@ -1,6 +1,3 @@
-# neuralnetworkpropagation
-A backpropagation algorithm implementation for a neutral network, written in Python.
-
 # Neural Network with Backpropagation
 
 ## Overview
@@ -17,7 +14,7 @@ The network consists of:
 	- 2 output nodes
 
 ## How to Run
-1. Clone the repository, found at "https://github.com/aishasaghir/neuralnetworkpropagation/". 
+1. Clone the repository, found at https://github.com/aishasaghir/neuralnetworkpropagation/.
 2. Open the .py file using Python IDLE version 3.10.4.
 3. Press F5, or navigate to the "Run" tab on the top toolbar and click "Run Module".
 
